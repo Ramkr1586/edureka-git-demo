@@ -1,6 +1,6 @@
 a  = 25
 b  = 18
-
-sum = a + b
+c = 20
+sum = a + b + c
 
 print ("sum of two numbers is =") sum
